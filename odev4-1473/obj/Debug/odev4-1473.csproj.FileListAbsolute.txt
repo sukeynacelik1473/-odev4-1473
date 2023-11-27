@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\odev4-1473\odev4-1473\bin\Debug\odev4-1473.exe.config
+C:\Users\ASUS\source\repos\odev4-1473\odev4-1473\bin\Debug\odev4-1473.exe
+C:\Users\ASUS\source\repos\odev4-1473\odev4-1473\bin\Debug\odev4-1473.pdb
+C:\Users\ASUS\source\repos\odev4-1473\odev4-1473\obj\Debug\odev4-1473.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\odev4-1473\odev4-1473\obj\Debug\odev4_1473.Form1.resources
+C:\Users\ASUS\source\repos\odev4-1473\odev4-1473\obj\Debug\odev4_1473.Properties.Resources.resources
+C:\Users\ASUS\source\repos\odev4-1473\odev4-1473\obj\Debug\odev4-1473.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\odev4-1473\odev4-1473\obj\Debug\odev4-1473.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\odev4-1473\odev4-1473\obj\Debug\odev4-1473.exe
+C:\Users\ASUS\source\repos\odev4-1473\odev4-1473\obj\Debug\odev4-1473.pdb
